@@ -41,5 +41,5 @@
 
    $minValue = calculateMinimumValue($n,$rotatedArray);
 
-   echo $minValue ;
+   echo   $minValue ;
 
